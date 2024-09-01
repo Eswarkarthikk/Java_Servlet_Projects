@@ -1,0 +1,7 @@
+127.0.0.1 - - [01/Aug/2024:23:55:16 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [01/Aug/2024:23:55:17 +0530] "GET /Student_Management_System/login.html HTTP/1.1" 200 1975
+0:0:0:0:0:0:0:1 - - [01/Aug/2024:23:55:17 +0530] "GET /favicon.ico HTTP/1.1" 404 763
+0:0:0:0:0:0:0:1 - - [01/Aug/2024:23:56:29 +0530] "POST /Student_Management_System/Login HTTP/1.1" 200 2602
+0:0:0:0:0:0:0:1 - - [01/Aug/2024:23:56:34 +0530] "GET /Student_Management_System/CreateorUpdate.jsp HTTP/1.1" 200 5936
+0:0:0:0:0:0:0:1 - - [01/Aug/2024:23:56:38 +0530] "GET /Student_Management_System/ShowData.jsp HTTP/1.1" 200 2777
+0:0:0:0:0:0:0:1 - - [01/Aug/2024:23:56:40 +0530] "GET /Student_Management_System/ShowAll.jsp HTTP/1.1" 200 4807
